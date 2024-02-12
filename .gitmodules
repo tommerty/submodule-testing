@@ -1,0 +1,3 @@
+[submodule "modules/private-repo"]
+	path = modules/private-repo
+	url = https://github.com/tommerty/private-submodule.git
